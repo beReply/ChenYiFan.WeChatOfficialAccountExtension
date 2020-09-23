@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyBgzzpbn5Bu6y93klbMIS/WksM0XS2n/BuHQ9nghMdAOH1mG+43Hgu3MwmioaDL1JK3StNluLlp9FGpWeaiwQ==",
+  "success": true,
+  "projectFilePath": "H:\\SelfExtension\\ChenYiFan.WeChatOfficialAccountExtension\\ChenYiFan.WeChatOfficialAccountExtension\\ChenYiFan.WeChatOfficialAccountExtension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.8\\microsoft.extensions.options.configurationextensions.3.1.8.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
